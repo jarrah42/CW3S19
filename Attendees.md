@@ -10,7 +10,6 @@ Please organize alphabetically by last name.
 
 - [Wolfgang Bangerth](https://www.math.colostate.edu/~bangerth/)
 - [Roscoe A. Bartlett](https://bartlettroscoe.github.io/)
-- [David E. Bernholdt](https://csmd.ornl.gov/profile/david-bernholdt)
 - [Jeffrey C. Carver](http://carver.cs.ua.edu)
 - [Hank Childs](http://cdux.cs.uoregon.edu/childs.html)
 - [Neil Chue Hong](https://www.software.ac.uk/about/staff/person/neil-chue-hong)
@@ -23,7 +22,6 @@ Please organize alphabetically by last name.
 - [Robert Jacob](https://www.mcs.anl.gov/~jacob/)
 - [Heike Jagode](http://icl.utk.edu/~jagode)
 - [Daniel S. Katz](https://danielskatz.org)
-- [Jakub Kurzak](https://www.linkedin.com/in/jakubkurzak)
 - [Sherry Li](https://crd.lbl.gov/departments/applied-mathematics/scalable-solvers/members/staff-members/xiaoye-li/)
 - [Lois Curfman McInnes](https://mcs.anl.gov/~curfman)
 - [Mark C Miller](https://github.com/markcmiller86)
@@ -31,5 +29,5 @@ Please organize alphabetically by last name.
 - [Sarah Osborn](https://people.llnl.gov/osborn9)
 - [Pat Quillen](https://www.linkedin.com/in/patquillen/)
 - Elaine Raybourn
-- [Michael Zentner](https://www.linkedin.com/in/michaelzentner/)
+- [Greg Watson](https://www.ornl.gov/staff-profile/gregory-r-watson)
 
